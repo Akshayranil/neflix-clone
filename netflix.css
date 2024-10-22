@@ -1,0 +1,263 @@
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+body{
+    
+    background-image: url(https://singh-cp.github.io/netflix-landingpage/images/netflix-background-image.jpg);
+    background-color:black;
+    overflow-x: hidden;
+    
+    background-size: 1530px 725px;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+}
+header{
+    position: relative;
+    background-color: black;
+    opacity: 0.8;
+    width: 1530px;
+    top: -8px;
+    right: 8px;
+    height: 725px;
+    
+}
+.netflix-logo{
+    width: 12%;
+    position: relative;
+    left: 124px;
+    top: -20px
+    }
+.eng{
+    position: relative;
+    right: 238px;
+    top: 20px;
+    width: 136px;
+    height: 31px;
+    background-color:black;
+    color: white;
+    font-size: 19px;
+    border: 2px solid white;
+    border-radius: 4.1px;
+}   
+.sign{
+    position: relative;
+    right: 84px;
+    width: 69px;
+    height: 31px;
+    top: -11px;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 4.1px;
+}
+.main{
+    text-align: center;
+    
+}
+.firsthead{
+    
+    top: 55px;
+    position: relative;
+    font-weight: 700;
+    font-size: 4rem;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    z-index: 20px;
+}
+.secondhead{
+    top: 15px;
+    position: relative;
+    font-size: 22px;
+}
+.para{
+    position: relative;
+    top: 17px;
+    font-size: 17px;
+}
+.email{
+    width: 29.3%;
+    height: 52px;
+    left: -3px;
+    position: relative;
+    top: 14px;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    border-radius: 4.1px;
+}
+.started{
+    top: 14px;
+    position: relative;
+    width: 167px;
+    height: 55.8px;
+    background-color: red;
+    color: white;
+    font-size:large;
+    border-radius: 4.1px;
+}
+ .trending{
+    top: 181px;
+    position: relative;
+    left: 150px;
+    font-size: 31px;
+ } 
+ .india{
+    position: relative;
+    width: 10%;
+    height: 37px;
+    background-color: black;
+    color: white;
+    opacity: 8.9;
+    border: solid;
+    right: -152px;
+    bottom: -197px;
+    border-radius: 4.1px;
+ }  
+ .movies{
+    position: relative;
+    width: 10%;
+    height: 37px;
+    background-color: black;
+    color: white;
+    opacity: 8.9;
+    border: solid;
+    right: -189px;
+    bottom: -197px;
+    border-radius: 4.1px;
+ }
+ .film1{
+    background-image: url(https://lehren.com/wp-content/uploads/2023/01/tovino-thomas-looks-menacing-in-the-first-look-poster-ajayante-randam-moshanam-696x392.jpg);
+    background-size: 185px 206px;
+    width: 12%;
+    height: 208px;
+    position: relative;
+    right: -136px;
+    bottom: -219px;
+    border-radius: 5.1px;
+ }
+ .film2{
+    background-image: url(https://th.bing.com/th/id/OIP.Ncn0BmD4qsOlJP-cw4CN_gHaH6?w=149&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+    width: 13%;
+    height: 208px;
+    position: relative;
+    right: -210px;
+    bottom: -219px;
+    border-radius: 5.1px;
+ }
+ .film3{
+    background-image: url(https://th.bing.com/th/id/OIP.39Bdyr0UHATNhs-3jnUk9gAAAA?w=134&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+    width: 12%;
+    height: 208px;
+    position: relative;
+    right: -305px;
+    bottom: -219px;
+    border-radius: 5.1px;
+ }
+ .film4{
+    background-image: url(https://th.bing.com/th/id/OIP.O8Bw2etTx9mbUE-DEdKEjgAAAA?w=202&h=309&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+    width: 15%;
+    height: 208px;
+    position: relative;
+    right: -406px;
+    bottom: -219px;
+    border-radius: 5.1px;
+ }
+ .film5{
+    background-image: url(https://th.bing.com/th/id/OIP.EZbWcxBsjjnA35JLcAw56wHaFj?w=210&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+    width: 12%;
+    height: 208px;
+    position: relative;
+    right: -486px;
+    bottom: -219px;
+    border-radius: 5.1px;
+ }
+ .reasons{
+    font-size: 26px;
+    top: 325px;
+    left: 130px;
+    position: relative;
+    font-family: sans-serif;
+ }
+ .box1{
+    width: 20%;
+    height: 280px;
+    position: relative;
+    top: 355px;
+    left: 124px;
+    background: linear-gradient(149deg, #192247 0%, #210e17 96.86%);
+    border-radius: 25.1px;
+ }
+ .box2{
+    width: 20%;
+    height: 280px;
+    position: relative;
+    top: 359px;
+    left: 165px;
+    background: linear-gradient(149deg, #192247 0%, #210e17 96.86%);
+    border-radius: 25.1px;
+ }
+ .box3{
+    width: 20%;
+    height: 280px;
+    position: relative;
+    top: 347px;
+    left: 200px;
+    background: linear-gradient(149deg, #192247 0%, #210e17 96.86%);
+    border-radius: 25.1px;
+ }
+ .box4{
+    width: 20%;
+    height: 280px;
+    position: relative;
+    top: 364px;
+    left: 230px;
+    background: linear-gradient(149deg, #192247 0%, #210e17 96.86%);
+    border-radius: 25.1px;
+ }
+ .questions{
+   position: relative;
+    top: 407px;
+    right: -123px;
+    font-size: 27px;
+    font-family: sans-serif;
+ }
+ 
+.mail{
+   width: 60.3%;
+    height: 52px;
+    left: 238px;
+    position: relative;
+    top: 630px;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+
+
+} 
+
+.start{
+   top: 632px;
+    position: relative;
+    width: 167px;
+    height: 58.8px;
+    background-color: red;
+    color: white;
+    font-size: large;
+    left: 248px;
+
+}
+.eng2{
+   position: relative;
+   right: 416px;
+   top: 926px;
+   width: 136px;
+   height: 31px;
+   background-color:black;
+   color: white;
+   font-size: 19px;
+   border: 2px solid white;
+   border-radius: 4.1px;
+}
